@@ -1,1 +1,2 @@
 修改myfile.txt
+pull 取得遠端數據庫的內容
