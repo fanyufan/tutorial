@@ -1,3 +1,4 @@
 修改myfile.txt
 commit 記錄索引的狀態
 pull 取得遠端數據庫的內容
+修改myfile.txt by issue2
